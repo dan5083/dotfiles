@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dan5083@outlook.com
+	name = Dan Bayliss
